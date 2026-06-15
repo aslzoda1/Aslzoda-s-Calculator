@@ -28,3 +28,6 @@
 * **Matematik kutubxona:** `math` (Python built-in)
 
 ---
+
+
+aslzoda
